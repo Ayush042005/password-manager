@@ -1,0 +1,5 @@
+[
+  "test_project.py::test_check_password_strength",
+  "test_project.py::test_generate_password",
+  "test_project.py::test_validate_service_name"
+]
